@@ -1,0 +1,647 @@
+age,gender,hometown,study_time,attendance,sleep,outings,screen_time,stress,study_group,study_place,notes,food,physical_activity,previous_grade
+20,Male,Urban (Cities etc.),4,>=90,6-8 hours,No outings,4,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.67 - 3.99
+20,Female,Urban (Cities etc.),3,>=90,6-8 hours,No outings,2,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.67 - 3.99
+26,Female,Rural (villages),4,>=90,More than 8 hours,Once a week,2,2,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.33 - 3.66
+22,Female,Rural (villages),4,<80,6-8 hours,Once a week,2,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.67 - 3.99
+30,Female,Urban (Cities etc.),3,>=80,More than 8 hours,Once a week,1,1,Yes,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,3.67 - 3.99
+25,Female,Urban (Cities etc.),4,>=90,6-8 hours,Once a week,3,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,4
+31,Female,Rural (villages),3,>=90,More than 8 hours,Once a week,2,1,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.33 - 3.66
+20,Male,Urban (Cities etc.),1,>=90,More than 8 hours,Once a week,5,1,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,3.67 - 3.99
+21,Female,Urban (Cities etc.),2,>=80,More than 8 hours,No outings,2,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.67 - 3.99
+21,Male,Urban (Cities etc.),2,<80,6-8 hours,Twice a week,1,3,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,3.67 - 3.99
+21,Male,Rural (villages),1,>=90,6-8 hours,Once a week,3,1,"No, i study alone.",Library/ Computer Centre,"Yes, I mostly take notes in classes",Healthy,1-2 times,2.67 - 2.99
+18,Male,Urban (Cities etc.),2,>=80,6-8 hours,Once a week,2,3,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,4
+22,Male,Urban (Cities etc.),2,>=80,6-8 hours,No outings,4,5,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,2.67 - 2.99
+21,Female,Urban (Cities etc.),3,>=80,6-8 hours,Once a week,3,3,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.0 - 3.32
+20,Female,Urban (Cities etc.),1,<80,More than 8 hours,No outings,1,5,"No, i study alone.",Other,"I sometimes take notes, like once or twice a week.",Mixed,Never,4
+20,Female,Rural (villages),0,>=80,4-6 hours,Twice a week,3,5,Yes,Library/ Computer Centre,"No, I usually dont take notes in classes",Mixed,Daily,3.0 - 3.32
+20,Female,Rural (villages),4,>=90,6-8 hours,No outings,5,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,3.33 - 3.66
+20,Female,Urban (Cities etc.),2,>=90,More than 8 hours,No outings,2,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,3.0 - 3.32
+20,Female,Urban (Cities etc.),3,<80,More than 8 hours,Everyday,5,5,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Daily,2.67 - 2.99
+20,Prefer not to say,Urban (Cities etc.),3,>=80,More than 8 hours,Everyday,3,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,3.33 - 3.66
+20,Female,Urban (Cities etc.),2,>=80,6-8 hours,Once a week,2,4,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,3.0 - 3.32
+23,Male,Rural (villages),4,>=90,4-6 hours,3-5 times,3,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,3.0 - 3.32
+23,Female,Urban (Cities etc.),5,>=90,6-8 hours,Twice a week,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,3.67 - 3.99
+29,Male,Urban (Cities etc.),2,>=90,6-8 hours,Once a week,5,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,3.67 - 3.99
+20,Female,Urban (Cities etc.),4,<80,4-6 hours,No outings,3,1,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,3.67 - 3.99
+22,Male,Urban (Cities etc.),2,>=80,4-6 hours,Once a week,3,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,4
+21,Female,Urban (Cities etc.),1,>=90,6-8 hours,Once a week,0,2,"No, i study alone.",Library/ Computer Centre,"Yes, I mostly take notes in classes",Mixed,3-5 times,3.33 - 3.66
+20,Female,Urban (Cities etc.),2,>=90,2-4 hours,No outings,3,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.33 - 3.66
+20,Female,Rural (villages),3,>=90,4-6 hours,No outings,2,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,3.0 - 3.32
+20,Male,Urban (Cities etc.),1,>=90,6-8 hours,3-5 times,2,3,Yes,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Junk,Never,3.67 - 3.99
+20,Male,Rural (villages),1,>=90,4-6 hours,3-5 times,2,5,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,3.67 - 3.99
+20,Female,Urban (Cities etc.),1,>=80,More than 8 hours,Everyday,3,1,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,3.67 - 3.99
+25,Female,Urban (Cities etc.),2,<80,6-8 hours,Once a week,1,1,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.33 - 3.66
+19,Female,Urban (Cities etc.),4,>=90,6-8 hours,No outings,1,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.67 - 3.99
+20,Female,Urban (Cities etc.),2,>=80,2-4 hours,No outings,2,3,I study in group as well as alone.,Library/ Computer Centre,"Yes, I mostly take notes in classes",Mixed,Daily,3.67 - 3.99
+20,Female,Urban (Cities etc.),4,>=80,6-8 hours,No outings,4,5,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,Never,3.0 - 3.32
+18,Prefer not to say,Rural (villages),3,>=90,6-8 hours,No outings,2,3,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Healthy,1-2 times,4
+20,Female,Urban (Cities etc.),3,>=90,More than 8 hours,Once a week,3,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,3.33 - 3.66
+19,Female,Urban (Cities etc.),2,>=80,6-8 hours,Once a week,2,3,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.33 - 3.66
+18,Male,Rural (villages),2,>=90,6-8 hours,3-5 times,4,1,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.33 - 3.66
+19,Female,Urban (Cities etc.),2,>=90,4-6 hours,No outings,2,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.67 - 3.99
+19,Male,Urban (Cities etc.),3,>=80,More than 8 hours,3-5 times,2,4,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,3.67 - 3.99
+20,Female,Urban (Cities etc.),3,>=90,6-8 hours,No outings,3,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.33 - 3.66
+21,Male,Rural (villages),0,>=80,6-8 hours,3-5 times,3,2,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Healthy,Daily,3.67 - 3.99
+20,Female,Urban (Cities etc.),3,>=80,6-8 hours,Once a week,1,4,"No, i study alone.",Library/ Computer Centre,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.67 - 3.99
+19,Male,Rural (villages),3,>=80,6-8 hours,Once a week,3,1,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Daily,3.33 - 3.66
+20,Female,Urban (Cities etc.),5,>=90,6-8 hours,No outings,3,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,3.33 - 3.66
+20,Female,Urban (Cities etc.),4,>=80,6-8 hours,Once a week,2,3,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.67 - 3.99
+20,Female,Urban (Cities etc.),2,>=90,6-8 hours,Once a week,2,3,I study in group as well as alone.,Other,"Yes, I mostly take notes in classes",Mixed,Never,3.67 - 3.99
+21,Female,Urban (Cities etc.),2,<80,More than 8 hours,Once a week,3,3,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Daily,3.33 - 3.66
+19,Female,Urban (Cities etc.),3,>=80,4-6 hours,No outings,1,3,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.67 - 3.99
+22,Female,Urban (Cities etc.),4,>=80,6-8 hours,Once a week,2,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.0 - 3.32
+20,Female,Rural (villages),2,>=80,More than 8 hours,Everyday,4,3,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,3.33 - 3.66
+21,Male,Urban (Cities etc.),2,<80,More than 8 hours,Everyday,4,1,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Daily,3.0 - 3.32
+20,Female,Urban (Cities etc.),3,>=90,6-8 hours,No outings,1,3,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Never,3.33 - 3.66
+20,Female,Urban (Cities etc.),3,>=90,6-8 hours,Once a week,2,4,"No, i study alone.",Library/ Computer Centre,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.33 - 3.66
+30,Male,Urban (Cities etc.),2,>=80,6-8 hours,Once a week,1,1,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Healthy,Daily,3.33 - 3.66
+23,Male,Rural (villages),3,<80,4-6 hours,Once a week,2,2,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Daily,3.0 - 3.32
+33,Female,Urban (Cities etc.),2,>=90,4-6 hours,Once a week,1,3,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.33 - 3.66
+45,Male,Rural (villages),2,>=90,4-6 hours,No outings,2,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Daily,2.67 - 2.99
+23,Female,Urban (Cities etc.),3,>=80,6-8 hours,Once a week,1,1,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,Daily,3.67 - 3.99
+19,Male,Urban (Cities etc.),1,>=90,More than 8 hours,Once a week,3,2,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,3.33 - 3.66
+21,Male,Urban (Cities etc.),1,>=80,4-6 hours,Everyday,2,5,Yes,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,3-5 times,4
+21,Male,Urban (Cities etc.),2,>=80,6-8 hours,Everyday,2,5,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Daily,3.0 - 3.32
+20,Male,Urban (Cities etc.),2,>=80,6-8 hours,3-5 times,5,4,"No, i study alone.",Library/ Computer Centre,"I sometimes take notes, like once or twice a week.",Mixed,3-5 times,2.67 - 2.99
+19,Male,Urban (Cities etc.),3,>=80,6-8 hours,Once a week,2,3,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,3.33 - 3.66
+20,Male,Rural (villages),3,>=80,6-8 hours,Twice a week,3,4,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.0 - 3.32
+18,Male,Rural (villages),3,>=80,6-8 hours,Twice a week,3,1,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,3.33 - 3.66
+22,Male,Urban (Cities etc.),2,>=80,6-8 hours,3-5 times,2,1,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,3.0 - 3.32
+21,Male,Urban (Cities etc.),1,<80,More than 8 hours,Everyday,0,5,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,<2.67
+20,Male,Urban (Cities etc.),2,>=80,6-8 hours,Twice a week,4,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,3.0 - 3.32
+21,Male,Urban (Cities etc.),2,>=80,4-6 hours,Once a week,3,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,3.0 - 3.32
+21,Male,Urban (Cities etc.),4,>=80,2-4 hours,No outings,3,4,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,3.67 - 3.99
+20,Female,Rural (villages),1,<80,4-6 hours,3-5 times,5,1,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,3.33 - 3.66
+21,Female,Urban (Cities etc.),5,<80,4-6 hours,Twice a week,2,1,"No, i study alone.",Library/ Computer Centre,"No, I usually dont take notes in classes",Junk,3-5 times,3.67 - 3.99
+19,Male,Rural (villages),3,>=90,6-8 hours,3-5 times,2,2,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Never,3.0 - 3.32
+20,Male,Urban (Cities etc.),3,>=80,6-8 hours,Once a week,2,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Daily,2.67 - 2.99
+19,Male,Rural (villages),2,>=80,6-8 hours,Once a week,1,2,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,3.0 - 3.32
+19,Male,Urban (Cities etc.),3,>=80,6-8 hours,Once a week,2,2,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.67 - 3.99
+19,Male,Urban (Cities etc.),2,>=80,6-8 hours,Twice a week,2,1,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Healthy,Daily,3.33 - 3.66
+20,Male,Urban (Cities etc.),2,>=90,2-4 hours,Once a week,2,3,Yes,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.0 - 3.32
+18,Male,Urban (Cities etc.),2,>=90,6-8 hours,Twice a week,4,1,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,3-5 times,3.67 - 3.99
+19,Male,Urban (Cities etc.),1,<80,6-8 hours,Once a week,2,3,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,3-5 times,3.33 - 3.66
+22,Male,Rural (villages),2,>=90,6-8 hours,No outings,2,3,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.33 - 3.66
+19,Male,Rural (villages),4,>=90,6-8 hours,No outings,2,3,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Daily,3.67 - 3.99
+20,Male,Urban (Cities etc.),2,>=80,4-6 hours,Once a week,3,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,2.67 - 2.99
+19,Male,Urban (Cities etc.),2,>=90,6-8 hours,Once a week,4,5,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.67 - 3.99
+19,Male,Urban (Cities etc.),1,<80,2-4 hours,No outings,4,1,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,3.33 - 3.66
+19,Male,Rural (villages),3,>=80,2-4 hours,Once a week,2,5,Yes,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,3.67 - 3.99
+19,Male,Rural (villages),4,>=90,6-8 hours,No outings,2,1,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Healthy,1-2 times,3.0 - 3.32
+29,Male,Rural (villages),3,>=90,6-8 hours,Once a week,2,1,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Healthy,Never,4
+20,Male,Rural (villages),3,>=90,6-8 hours,Twice a week,2,1,Yes,Library/ Computer Centre,"Yes, I mostly take notes in classes",Healthy,Daily,4
+19,Male,Urban (Cities etc.),1,>=90,4-6 hours,No outings,2,5,I study in group as well as alone.,Library/ Computer Centre,"I sometimes take notes, like once or twice a week.",Mixed,3-5 times,3.0 - 3.32
+20,Male,Urban (Cities etc.),2,<80,4-6 hours,No outings,1,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,<2.67
+21,Male,Rural (villages),2,>=90,6-8 hours,Once a week,2,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.33 - 3.66
+20,Female,Rural (villages),2,>=80,4-6 hours,No outings,2,4,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,3.0 - 3.32
+21,Male,Rural (villages),3,>=80,6-8 hours,Once a week,2,4,I study in group as well as alone.,Library/ Computer Centre,"Yes, I mostly take notes in classes",Healthy,Never,2.67 - 2.99
+19,Male,Rural (villages),2,>=90,4-6 hours,No outings,2,4,Yes,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.33 - 3.66
+21,Male,Urban (Cities etc.),2,>=90,6-8 hours,No outings,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,2.67 - 2.99
+19,Female,Urban (Cities etc.),1,>=80,6-8 hours,No outings,5,3,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,3.33 - 3.66
+18,Male,Urban (Cities etc.),3,>=80,More than 8 hours,Twice a week,3,2,I study in group as well as alone.,Library/ Computer Centre,"I sometimes take notes, like once or twice a week.",Mixed,Never,2.67 - 2.99
+21,Female,Urban (Cities etc.),2,>=80,4-6 hours,No outings,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,2.67 - 2.99
+23,Male,Rural (villages),2,>=80,4-6 hours,Once a week,3,3,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,3.33 - 3.66
+22,Male,Urban (Cities etc.),2,>=90,6-8 hours,No outings,4,4,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,<2.67
+20,Male,Urban (Cities etc.),3,>=90,6-8 hours,Once a week,2,1,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Never,3.67 - 3.99
+19,Male,Rural (villages),3,>=90,6-8 hours,Once a week,2,2,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,3.67 - 3.99
+20,Male,Urban (Cities etc.),2,>=80,6-8 hours,Once a week,2,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.0 - 3.32
+19,Female,Rural (villages),2,>=90,6-8 hours,No outings,2,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,3.0 - 3.32
+19,Female,Rural (villages),2,>=90,6-8 hours,Everyday,4,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.0 - 3.32
+20,Female,Rural (villages),5,>=90,4-6 hours,No outings,3,1,Yes,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,3.67 - 3.99
+21,Male,Urban (Cities etc.),3,>=80,6-8 hours,Once a week,2,3,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.33 - 3.66
+17,Male,Rural (villages),2,>=80,2-4 hours,No outings,2,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,4
+19,Male,Rural (villages),3,>=90,4-6 hours,Once a week,2,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,2.67 - 2.99
+17,Female,Rural (villages),3,>=90,6-8 hours,No outings,2,1,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.0 - 3.32
+18,Male,Rural (villages),2,>=90,4-6 hours,No outings,5,3,"No, i study alone.",Library/ Computer Centre,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,<2.67
+20,Male,Urban (Cities etc.),2,>=90,4-6 hours,Twice a week,1,4,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Daily,3.33 - 3.66
+18,Male,Urban (Cities etc.),3,>=80,4-6 hours,Once a week,2,3,"No, i study alone.",Library/ Computer Centre,"No, I usually dont take notes in classes",Healthy,3-5 times,3.33 - 3.66
+21,Male,Rural (villages),2,>=80,More than 8 hours,3-5 times,2,3,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Daily,2.67 - 2.99
+21,Male,Urban (Cities etc.),1,>=80,6-8 hours,Twice a week,5,2,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,3-5 times,2.67 - 2.99
+21,Male,Rural (villages),3,>=80,6-8 hours,No outings,2,4,I study in group as well as alone.,Library/ Computer Centre,"I sometimes take notes, like once or twice a week.",Healthy,1-2 times,3.0 - 3.32
+18,Male,Urban (Cities etc.),2,>=80,4-6 hours,3-5 times,3,1,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,3-5 times,3.0 - 3.32
+21,Male,Rural (villages),2,>=80,6-8 hours,Once a week,2,3,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,3.33 - 3.66
+19,Prefer not to say,Rural (villages),2,>=90,6-8 hours,No outings,2,5,I study in group as well as alone.,Library/ Computer Centre,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.0 - 3.32
+20,Male,Urban (Cities etc.),3,>=80,4-6 hours,No outings,2,5,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,3-5 times,3.33 - 3.66
+20,Male,Rural (villages),2,>=80,6-8 hours,Once a week,3,5,Yes,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Daily,3.67 - 3.99
+19,Male,Rural (villages),3,<80,6-8 hours,Once a week,2,3,"No, i study alone.",Library/ Computer Centre,"No, I usually dont take notes in classes",Mixed,3-5 times,3.33 - 3.66
+18,Male,Rural (villages),3,>=80,6-8 hours,Once a week,2,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Never,3.0 - 3.32
+20,Male,Rural (villages),2,>=90,More than 8 hours,3-5 times,5,1,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Daily,2.67 - 2.99
+21,Female,Urban (Cities etc.),4,>=90,4-6 hours,3-5 times,3,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,3.67 - 3.99
+18,Male,Urban (Cities etc.),2,>=90,6-8 hours,Once a week,1,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.0 - 3.32
+21,Female,Rural (villages),2,<80,More than 8 hours,Once a week,2,4,Yes,Library/ Computer Centre,"No, I usually dont take notes in classes",Mixed,Never,3.0 - 3.32
+18,Male,Rural (villages),2,>=80,6-8 hours,Once a week,2,1,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.0 - 3.32
+21,Male,Rural (villages),4,>=90,4-6 hours,3-5 times,2,2,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,3-5 times,3.0 - 3.32
+20,Male,Rural (villages),3,>=90,6-8 hours,Once a week,1,3,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,Never,3.67 - 3.99
+20,Male,Urban (Cities etc.),2,>=90,6-8 hours,Everyday,4,2,I study in group as well as alone.,Library/ Computer Centre,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.33 - 3.66
+19,Male,Rural (villages),2,>=90,6-8 hours,Once a week,2,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,2.67 - 2.99
+18,Female,Rural (villages),2,>=80,6-8 hours,Once a week,3,5,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.67 - 3.99
+19,Female,Rural (villages),2,>=90,6-8 hours,Once a week,3,1,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.67 - 3.99
+19,Female,Urban (Cities etc.),4,>=90,4-6 hours,Once a week,2,2,Yes,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Daily,3.67 - 3.99
+19,Female,Rural (villages),2,>=90,2-4 hours,No outings,3,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.67 - 3.99
+19,Male,Urban (Cities etc.),2,>=90,2-4 hours,3-5 times,3,5,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,4
+21,Male,Rural (villages),3,>=90,4-6 hours,Once a week,2,3,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.67 - 3.99
+19,Male,Rural (villages),2,>=80,6-8 hours,Once a week,3,2,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Daily,3.33 - 3.66
+22,Male,Rural (villages),3,>=80,6-8 hours,Once a week,2,3,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,3-5 times,3.0 - 3.32
+19,Male,Rural (villages),3,>=90,6-8 hours,Once a week,0,2,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,3.67 - 3.99
+24,Male,Urban (Cities etc.),1,<80,6-8 hours,Everyday,1,1,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,4
+23,Male,Urban (Cities etc.),3,>=80,6-8 hours,3-5 times,2,2,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.0 - 3.32
+19,Male,Rural (villages),2,>=90,6-8 hours,Once a week,2,1,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Daily,3.0 - 3.32
+17,Male,Rural (villages),2,>=90,6-8 hours,Once a week,2,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,3.33 - 3.66
+19,Male,Urban (Cities etc.),3,>=90,6-8 hours,Twice a week,1,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Never,3.33 - 3.66
+18,Male,Rural (villages),2,>=90,4-6 hours,Once a week,2,1,Yes,Library/ Computer Centre,"Yes, I mostly take notes in classes",Healthy,1-2 times,3.33 - 3.66
+18,Male,Urban (Cities etc.),3,>=90,4-6 hours,No outings,1,5,I study in group as well as alone.,Library/ Computer Centre,"I sometimes take notes, like once or twice a week.",Mixed,Never,4
+19,Male,Rural (villages),2,>=90,6-8 hours,No outings,1,3,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,3-5 times,3.33 - 3.66
+19,Male,Rural (villages),3,>=90,6-8 hours,Once a week,2,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Daily,2.67 - 2.99
+18,Female,Urban (Cities etc.),3,>=90,6-8 hours,No outings,2,1,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,4
+20,Male,Urban (Cities etc.),2,>=90,6-8 hours,Once a week,2,3,Yes,Library/ Computer Centre,"I sometimes take notes, like once or twice a week.",Healthy,Daily,3.33 - 3.66
+18,Female,Urban (Cities etc.),4,>=80,More than 8 hours,Twice a week,3,3,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Daily,3.33 - 3.66
+18,Female,Rural (villages),4,>=90,2-4 hours,No outings,4,3,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.33 - 3.66
+19,Female,Rural (villages),2,>=80,6-8 hours,No outings,2,4,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,3.0 - 3.32
+18,Female,Urban (Cities etc.),3,>=90,4-6 hours,No outings,1,1,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Never,3.67 - 3.99
+20,Male,Urban (Cities etc.),4,>=90,4-6 hours,Once a week,2,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Never,4
+20,Male,Rural (villages),1,>=80,More than 8 hours,3-5 times,0,1,"No, i study alone.",Library/ Computer Centre,"No, I usually dont take notes in classes",Mixed,3-5 times,3.0 - 3.32
+18,Male,Rural (villages),3,>=80,6-8 hours,Once a week,2,2,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Healthy,Daily,3.0 - 3.32
+18,Male,Urban (Cities etc.),1,>=80,6-8 hours,Once a week,2,1,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Daily,3.0 - 3.32
+19,Female,Urban (Cities etc.),2,>=80,6-8 hours,No outings,3,1,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,3.67 - 3.99
+18,Male,Rural (villages),3,>=90,4-6 hours,No outings,2,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,2.67 - 2.99
+21,Male,Urban (Cities etc.),3,>=80,6-8 hours,Twice a week,2,2,Yes,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,3.33 - 3.66
+19,Female,Urban (Cities etc.),2,>=90,6-8 hours,No outings,2,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.0 - 3.32
+23,Male,Urban (Cities etc.),1,<80,More than 8 hours,3-5 times,5,3,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Daily,3.33 - 3.66
+20,Male,Urban (Cities etc.),2,>=90,4-6 hours,Twice a week,2,4,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Daily,4
+20,Male,Urban (Cities etc.),2,>=90,4-6 hours,Once a week,2,4,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,3-5 times,3.0 - 3.32
+19,Female,Urban (Cities etc.),4,>=80,4-6 hours,No outings,3,5,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Daily,3.0 - 3.32
+18,Male,Urban (Cities etc.),2,>=90,6-8 hours,Once a week,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Never,3.0 - 3.32
+18,Male,Rural (villages),2,>=90,6-8 hours,3-5 times,2,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,4
+18,Female,Urban (Cities etc.),4,>=90,6-8 hours,No outings,1,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,4
+19,Male,Rural (villages),2,>=80,6-8 hours,Once a week,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,4
+19,Male,Rural (villages),1,>=90,More than 8 hours,No outings,2,3,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,Never,4
+19,Male,Rural (villages),2,>=90,6-8 hours,Once a week,3,3,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.0 - 3.32
+19,Female,Urban (Cities etc.),2,>=80,4-6 hours,No outings,4,1,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.0 - 3.32
+19,Female,Rural (villages),3,>=90,6-8 hours,Everyday,2,4,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,3.33 - 3.66
+19,Female,Urban (Cities etc.),2,>=80,4-6 hours,No outings,4,1,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.0 - 3.32
+18,Female,Urban (Cities etc.),3,>=90,6-8 hours,Once a week,1,2,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,4
+20,Male,Rural (villages),2,>=90,4-6 hours,Once a week,1,1,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,1-2 times,4
+18,Male,Rural (villages),3,>=90,4-6 hours,Once a week,2,1,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.0 - 3.32
+19,Female,Rural (villages),3,>=90,6-8 hours,No outings,0,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,4
+19,Female,Rural (villages),3,>=90,6-8 hours,No outings,0,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,4
+19,Female,Urban (Cities etc.),3,>=80,6-8 hours,Once a week,2,4,Yes,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.0 - 3.32
+19,Male,Urban (Cities etc.),2,<80,6-8 hours,Twice a week,2,5,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,4
+19,Male,Urban (Cities etc.),2,>=80,4-6 hours,No outings,2,2,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,3.67 - 3.99
+19,Female,Rural (villages),2,>=90,6-8 hours,No outings,2,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,<2.67
+18,Male,Rural (villages),3,>=80,6-8 hours,Once a week,3,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,4
+18,Male,Urban (Cities etc.),3,>=90,6-8 hours,Once a week,2,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.0 - 3.32
+23,Male,Urban (Cities etc.),2,>=90,6-8 hours,Once a week,2,2,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,3-5 times,3.0 - 3.32
+18,Male,Rural (villages),3,>=90,6-8 hours,No outings,1,1,Yes,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,3.67 - 3.99
+19,Female,Urban (Cities etc.),2,>=80,More than 8 hours,No outings,1,5,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,2.67 - 2.99
+20,Male,Rural (villages),2,>=90,6-8 hours,3-5 times,3,4,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,3-5 times,3.67 - 3.99
+18,Male,Urban (Cities etc.),2,>=90,4-6 hours,No outings,0,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.67 - 3.99
+17,Female,Urban (Cities etc.),3,>=80,4-6 hours,No outings,1,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.33 - 3.66
+19,Male,Urban (Cities etc.),3,>=90,More than 8 hours,3-5 times,2,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,3-5 times,4
+20,Male,Urban (Cities etc.),5,>=80,4-6 hours,Twice a week,2,4,Yes,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,3.0 - 3.32
+20,Male,Urban (Cities etc.),1,<80,More than 8 hours,Everyday,5,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,4
+18,Male,Rural (villages),1,>=90,More than 8 hours,No outings,2,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Never,3.0 - 3.32
+20,Male,Urban (Cities etc.),2,>=80,4-6 hours,Once a week,2,3,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,3.0 - 3.32
+17,Male,Rural (villages),4,>=90,6-8 hours,Once a week,5,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.67 - 3.99
+17,Male,Rural (villages),4,>=90,6-8 hours,Once a week,5,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.67 - 3.99
+18,Male,Urban (Cities etc.),4,>=90,4-6 hours,No outings,2,1,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,1-2 times,<2.67
+18,Male,Rural (villages),2,>=80,6-8 hours,Once a week,3,3,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,3.33 - 3.66
+18,Male,Urban (Cities etc.),4,>=90,4-6 hours,No outings,2,1,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,1-2 times,4
+17,Male,Rural (villages),4,>=90,6-8 hours,Once a week,4,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.67 - 3.99
+18,Male,Urban (Cities etc.),1,>=90,6-8 hours,Twice a week,2,3,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,3.0 - 3.32
+19,Male,Urban (Cities etc.),3,>=90,6-8 hours,Twice a week,2,3,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.0 - 3.32
+19,Male,Urban (Cities etc.),2,>=80,6-8 hours,Once a week,4,1,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,3.0 - 3.32
+19,Male,Urban (Cities etc.),3,>=90,6-8 hours,Once a week,2,1,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,4
+20,Male,Rural (villages),2,>=90,6-8 hours,Once a week,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,<2.67
+18,Female,Urban (Cities etc.),2,>=90,6-8 hours,Once a week,2,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,3.33 - 3.66
+18,Male,Urban (Cities etc.),3,>=90,4-6 hours,Once a week,2,4,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.67 - 3.99
+18,Female,Urban (Cities etc.),3,>=80,4-6 hours,Once a week,2,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.67 - 3.99
+18,Male,Urban (Cities etc.),2,>=90,More than 8 hours,Once a week,2,2,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,3.0 - 3.32
+16,Female,Urban (Cities etc.),2,>=90,4-6 hours,No outings,2,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.67 - 3.99
+19,Male,Rural (villages),3,>=90,6-8 hours,Once a week,2,3,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,3-5 times,3.0 - 3.32
+20,Male,Urban (Cities etc.),2,>=90,4-6 hours,No outings,3,2,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,3.67 - 3.99
+20,Female,Urban (Cities etc.),2,>=90,4-6 hours,Once a week,3,4,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.67 - 3.99
+20,Female,Urban (Cities etc.),2,>=80,6-8 hours,Once a week,3,1,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.33 - 3.66
+20,Male,Urban (Cities etc.),1,>=90,6-8 hours,Once a week,4,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Never,3.0 - 3.32
+19,Male,Urban (Cities etc.),3,>=90,6-8 hours,No outings,2,4,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Healthy,Never,3.67 - 3.99
+19,Male,Urban (Cities etc.),4,>=90,4-6 hours,3-5 times,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,3.67 - 3.99
+20,Male,Urban (Cities etc.),1,>=80,4-6 hours,Once a week,2,2,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,3.33 - 3.66
+21,Female,Urban (Cities etc.),4,>=90,6-8 hours,No outings,1,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Never,3.33 - 3.66
+20,Male,Urban (Cities etc.),4,>=90,4-6 hours,No outings,2,4,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,2.67 - 2.99
+20,Female,Urban (Cities etc.),3,>=90,4-6 hours,Once a week,2,5,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,3.33 - 3.66
+20,Female,Urban (Cities etc.),2,>=90,4-6 hours,Once a week,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.33 - 3.66
+18,Male,Urban (Cities etc.),2,>=80,More than 8 hours,No outings,1,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Healthy,1-2 times,3.33 - 3.66
+19,Male,Urban (Cities etc.),1,>=90,6-8 hours,Twice a week,2,2,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.67 - 3.99
+19,Male,Urban (Cities etc.),2,>=90,4-6 hours,Once a week,2,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.67 - 3.99
+19,Female,Urban (Cities etc.),4,>=90,4-6 hours,Once a week,1,4,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.67 - 3.99
+19,Male,Rural (villages),3,>=90,More than 8 hours,Once a week,2,4,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,2.67 - 2.99
+18,Female,Rural (villages),3,>=90,2-4 hours,No outings,2,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,<2.67
+21,Male,Urban (Cities etc.),1,>=90,2-4 hours,Everyday,1,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Healthy,Never,4
+18,Male,Urban (Cities etc.),4,>=90,4-6 hours,No outings,2,1,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,3.67 - 3.99
+17,Male,Rural (villages),2,<80,More than 8 hours,3-5 times,4,3,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,<2.67
+18,Female,Urban (Cities etc.),2,>=90,6-8 hours,No outings,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,<2.67
+17,Male,Urban (Cities etc.),3,>=90,4-6 hours,No outings,2,5,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Junk,Never,4
+17,Male,Rural (villages),5,>=80,2-4 hours,No outings,1,5,Yes,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,Daily,<2.67
+21,Prefer not to say,Rural (villages),1,<80,More than 8 hours,Everyday,3,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,<2.67
+21,Male,Urban (Cities etc.),2,>=90,4-6 hours,Once a week,2,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.0 - 3.32
+19,Female,Urban (Cities etc.),3,>=90,4-6 hours,Twice a week,2,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.67 - 3.99
+19,Male,Urban (Cities etc.),3,>=90,4-6 hours,Once a week,2,3,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Daily,3.33 - 3.66
+17,Female,Urban (Cities etc.),1,>=90,More than 8 hours,Twice a week,4,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,<2.67
+17,Male,Rural (villages),3,>=90,2-4 hours,No outings,2,3,Yes,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,1-2 times,3.33 - 3.66
+19,Male,Urban (Cities etc.),3,>=90,6-8 hours,Once a week,3,2,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.33 - 3.66
+21,Male,Urban (Cities etc.),2,>=80,6-8 hours,Once a week,3,2,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.0 - 3.32
+19,Female,Urban (Cities etc.),3,>=90,6-8 hours,No outings,4,4,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,3.67 - 3.99
+19,Male,Rural (villages),1,>=90,6-8 hours,Once a week,1,1,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Healthy,Daily,3.33 - 3.66
+19,Male,Urban (Cities etc.),2,>=90,6-8 hours,Once a week,2,3,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,3.0 - 3.32
+20,Female,Urban (Cities etc.),3,>=90,6-8 hours,Once a week,2,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Never,3.33 - 3.66
+19,Male,Urban (Cities etc.),1,<80,6-8 hours,3-5 times,4,1,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,3.0 - 3.32
+19,Male,Urban (Cities etc.),3,>=90,4-6 hours,Once a week,1,2,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,4
+18,Male,Urban (Cities etc.),1,>=80,6-8 hours,3-5 times,3,1,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.33 - 3.66
+19,Female,Urban (Cities etc.),1,>=80,6-8 hours,No outings,3,5,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.0 - 3.32
+18,Male,Rural (villages),3,>=90,6-8 hours,Once a week,3,4,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,3.0 - 3.32
+22,Male,Rural (villages),1,>=80,4-6 hours,3-5 times,4,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Junk,Never,3.0 - 3.32
+22,Male,Rural (villages),3,<80,4-6 hours,Twice a week,5,4,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,3.0 - 3.32
+19,Male,Urban (Cities etc.),4,>=90,6-8 hours,No outings,1,1,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,4
+20,Female,Urban (Cities etc.),2,>=80,6-8 hours,No outings,2,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,3.0 - 3.32
+19,Male,Urban (Cities etc.),2,>=90,4-6 hours,Twice a week,2,1,Yes,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,4
+21,Male,Urban (Cities etc.),2,>=90,6-8 hours,3-5 times,4,2,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,<2.67
+18,Female,Urban (Cities etc.),5,>=90,6-8 hours,Once a week,2,2,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,4
+18,Female,Urban (Cities etc.),2,>=90,More than 8 hours,No outings,2,2,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Daily,3.67 - 3.99
+24,Female,Urban (Cities etc.),3,>=80,6-8 hours,Once a week,2,1,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,3.33 - 3.66
+22,Female,Rural (villages),3,>=90,6-8 hours,Once a week,2,1,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,3.33 - 3.66
+20,Male,Urban (Cities etc.),5,>=90,6-8 hours,Once a week,1,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,3.67 - 3.99
+20,Male,Rural (villages),2,>=90,4-6 hours,No outings,2,5,Yes,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,3.0 - 3.32
+18,Male,Urban (Cities etc.),3,>=90,6-8 hours,Once a week,2,3,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,3.67 - 3.99
+19,Male,Urban (Cities etc.),2,>=90,6-8 hours,Once a week,3,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,3.67 - 3.99
+19,Male,Rural (villages),2,>=80,6-8 hours,Once a week,1,1,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Daily,3.67 - 3.99
+19,Male,Urban (Cities etc.),2,>=90,4-6 hours,Once a week,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.33 - 3.66
+19,Male,Rural (villages),2,>=80,6-8 hours,Twice a week,1,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,1-2 times,3.67 - 3.99
+18,Male,Rural (villages),2,>=80,6-8 hours,Once a week,2,3,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,3.67 - 3.99
+23,Male,Urban (Cities etc.),2,>=80,4-6 hours,Once a week,2,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,2.67 - 2.99
+18,Female,Urban (Cities etc.),3,>=90,4-6 hours,Once a week,1,2,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.67 - 3.99
+22,Male,Rural (villages),3,>=90,6-8 hours,Twice a week,2,2,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,3.33 - 3.66
+19,Female,Urban (Cities etc.),3,>=90,More than 8 hours,No outings,2,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.67 - 3.99
+20,Female,Urban (Cities etc.),3,>=80,2-4 hours,No outings,1,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.33 - 3.66
+20,Female,Urban (Cities etc.),3,>=90,6-8 hours,No outings,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Never,3.0 - 3.32
+25,Female,Urban (Cities etc.),4,>=90,6-8 hours,Once a week,3,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,4
+21,Male,Rural (villages),1,>=90,6-8 hours,Once a week,3,1,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,2.67 - 2.99
+18,Male,Urban (Cities etc.),2,>=80,6-8 hours,Once a week,2,3,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,4
+22,Male,Urban (Cities etc.),2,>=80,6-8 hours,No outings,4,5,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,2.67 - 2.99
+20,Female,Urban (Cities etc.),1,<80,More than 8 hours,No outings,1,5,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,4
+20,Female,Urban (Cities etc.),3,<80,More than 8 hours,Everyday,5,5,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Daily,2.67 - 2.99
+22,Male,Urban (Cities etc.),2,>=80,4-6 hours,Once a week,3,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,4
+18,Prefer not to say,Rural (villages),3,>=90,6-8 hours,No outings,2,3,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Healthy,1-2 times,4
+45,Male,Rural (villages),2,>=90,4-6 hours,No outings,2,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Daily,2.67 - 2.99
+21,Male,Urban (Cities etc.),1,>=80,4-6 hours,Everyday,2,5,Yes,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,3-5 times,4
+20,Male,Urban (Cities etc.),2,>=80,6-8 hours,3-5 times,5,4,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,3-5 times,2.67 - 2.99
+21,Male,Urban (Cities etc.),1,<80,More than 8 hours,Everyday,0,5,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,<2.67
+20,Male,Urban (Cities etc.),3,>=80,6-8 hours,Once a week,2,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Daily,2.67 - 2.99
+20,Male,Urban (Cities etc.),2,>=80,4-6 hours,Once a week,3,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,2.67 - 2.99
+29,Male,Rural (villages),3,>=90,6-8 hours,Once a week,2,1,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Healthy,Never,4
+20,Male,Rural (villages),3,>=90,6-8 hours,Twice a week,2,1,Yes,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Daily,4
+20,Male,Urban (Cities etc.),2,<80,4-6 hours,No outings,1,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,<2.67
+21,Male,Rural (villages),3,>=80,6-8 hours,Once a week,2,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Never,2.67 - 2.99
+21,Male,Urban (Cities etc.),2,>=90,6-8 hours,No outings,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,2.67 - 2.99
+18,Male,Urban (Cities etc.),3,>=80,More than 8 hours,Twice a week,3,2,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,2.67 - 2.99
+21,Female,Urban (Cities etc.),2,>=80,4-6 hours,No outings,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,2.67 - 2.99
+22,Male,Urban (Cities etc.),2,>=90,6-8 hours,No outings,4,4,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,<2.67
+17,Male,Rural (villages),2,>=80,2-4 hours,No outings,2,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,4
+19,Male,Rural (villages),3,>=90,4-6 hours,Once a week,2,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,2.67 - 2.99
+18,Male,Rural (villages),2,>=90,4-6 hours,No outings,5,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,<2.67
+21,Male,Rural (villages),2,>=80,More than 8 hours,3-5 times,2,3,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Daily,2.67 - 2.99
+21,Male,Urban (Cities etc.),1,>=80,6-8 hours,Twice a week,5,2,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,3-5 times,2.67 - 2.99
+20,Male,Rural (villages),2,>=90,More than 8 hours,3-5 times,5,1,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Daily,2.67 - 2.99
+19,Male,Rural (villages),2,>=90,6-8 hours,Once a week,2,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,2.67 - 2.99
+19,Male,Urban (Cities etc.),2,>=90,2-4 hours,3-5 times,3,5,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,4
+24,Male,Urban (Cities etc.),1,<80,6-8 hours,Everyday,1,1,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,4
+18,Male,Urban (Cities etc.),3,>=90,4-6 hours,No outings,1,5,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,4
+19,Male,Rural (villages),3,>=90,6-8 hours,Once a week,2,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Daily,2.67 - 2.99
+18,Female,Urban (Cities etc.),3,>=90,6-8 hours,No outings,2,1,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,4
+20,Male,Urban (Cities etc.),4,>=90,4-6 hours,Once a week,2,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Never,4
+18,Male,Rural (villages),3,>=90,4-6 hours,No outings,2,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,2.67 - 2.99
+20,Male,Urban (Cities etc.),2,>=90,4-6 hours,Twice a week,2,4,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Daily,4
+18,Male,Rural (villages),2,>=90,6-8 hours,3-5 times,2,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,4
+18,Female,Urban (Cities etc.),4,>=90,6-8 hours,No outings,1,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,4
+19,Male,Rural (villages),2,>=80,6-8 hours,Once a week,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,4
+19,Male,Rural (villages),1,>=90,More than 8 hours,No outings,2,3,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,Never,4
+18,Female,Urban (Cities etc.),3,>=90,6-8 hours,Once a week,1,2,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,4
+20,Male,Rural (villages),2,>=90,4-6 hours,Once a week,1,1,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,1-2 times,4
+19,Female,Rural (villages),3,>=90,6-8 hours,No outings,0,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,4
+19,Female,Rural (villages),3,>=90,6-8 hours,No outings,0,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,4
+19,Male,Urban (Cities etc.),2,<80,6-8 hours,Twice a week,2,5,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,4
+19,Female,Rural (villages),2,>=90,6-8 hours,No outings,2,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,<2.67
+18,Male,Rural (villages),3,>=80,6-8 hours,Once a week,3,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,4
+19,Female,Urban (Cities etc.),2,>=80,More than 8 hours,No outings,1,5,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,2.67 - 2.99
+19,Male,Urban (Cities etc.),3,>=90,More than 8 hours,3-5 times,2,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,3-5 times,4
+20,Male,Urban (Cities etc.),1,<80,More than 8 hours,Everyday,5,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,4
+18,Male,Urban (Cities etc.),4,>=90,4-6 hours,No outings,2,1,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,1-2 times,<2.67
+18,Male,Urban (Cities etc.),4,>=90,4-6 hours,No outings,2,1,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,1-2 times,4
+19,Male,Urban (Cities etc.),3,>=90,6-8 hours,Once a week,2,1,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,4
+20,Male,Rural (villages),2,>=90,6-8 hours,Once a week,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,<2.67
+20,Male,Urban (Cities etc.),4,>=90,4-6 hours,No outings,2,4,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,2.67 - 2.99
+19,Male,Rural (villages),3,>=90,More than 8 hours,Once a week,2,4,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,2.67 - 2.99
+18,Female,Rural (villages),3,>=90,2-4 hours,No outings,2,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,<2.67
+21,Male,Urban (Cities etc.),1,>=90,2-4 hours,Everyday,1,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Healthy,Never,4
+17,Male,Rural (villages),2,<80,More than 8 hours,3-5 times,4,3,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,<2.67
+18,Female,Urban (Cities etc.),2,>=90,6-8 hours,No outings,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,<2.67
+17,Male,Urban (Cities etc.),3,>=90,4-6 hours,No outings,2,5,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Junk,Never,4
+17,Male,Rural (villages),5,>=80,2-4 hours,No outings,1,5,Yes,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,Daily,<2.67
+21,Prefer not to say,Rural (villages),1,<80,More than 8 hours,Everyday,3,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,<2.67
+17,Female,Urban (Cities etc.),1,>=90,More than 8 hours,Twice a week,4,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,<2.67
+19,Male,Urban (Cities etc.),3,>=90,4-6 hours,Once a week,1,2,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,4
+19,Male,Urban (Cities etc.),4,>=90,6-8 hours,No outings,1,1,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,4
+19,Male,Urban (Cities etc.),2,>=90,4-6 hours,Twice a week,2,1,Yes,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,4
+21,Male,Urban (Cities etc.),2,>=90,6-8 hours,3-5 times,4,2,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,<2.67
+18,Female,Urban (Cities etc.),5,>=90,6-8 hours,Once a week,2,2,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,4
+23,Male,Urban (Cities etc.),2,>=80,4-6 hours,Once a week,2,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,2.67 - 2.99
+25,Female,Urban (Cities etc.),4,>=90,6-8 hours,Once a week,3,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,4
+21,Male,Rural (villages),1,>=90,6-8 hours,Once a week,3,1,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,2.67 - 2.99
+18,Male,Urban (Cities etc.),2,>=80,6-8 hours,Once a week,2,3,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,4
+22,Male,Urban (Cities etc.),2,>=80,6-8 hours,No outings,4,5,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,2.67 - 2.99
+20,Female,Urban (Cities etc.),1,<80,More than 8 hours,No outings,1,5,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,4
+20,Female,Urban (Cities etc.),3,<80,More than 8 hours,Everyday,5,5,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Daily,2.67 - 2.99
+22,Male,Urban (Cities etc.),2,>=80,4-6 hours,Once a week,3,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,4
+18,Prefer not to say,Rural (villages),3,>=90,6-8 hours,No outings,2,3,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Healthy,1-2 times,4
+45,Male,Rural (villages),2,>=90,4-6 hours,No outings,2,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Daily,2.67 - 2.99
+21,Male,Urban (Cities etc.),1,>=80,4-6 hours,Everyday,2,5,Yes,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,3-5 times,4
+20,Male,Urban (Cities etc.),2,>=80,6-8 hours,3-5 times,5,4,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,3-5 times,2.67 - 2.99
+21,Male,Urban (Cities etc.),1,<80,More than 8 hours,Everyday,0,5,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,<2.67
+20,Male,Urban (Cities etc.),3,>=80,6-8 hours,Once a week,2,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Daily,2.67 - 2.99
+20,Male,Urban (Cities etc.),2,>=80,4-6 hours,Once a week,3,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,2.67 - 2.99
+29,Male,Rural (villages),3,>=90,6-8 hours,Once a week,2,1,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Healthy,Never,4
+20,Male,Rural (villages),3,>=90,6-8 hours,Twice a week,2,1,Yes,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Daily,4
+20,Male,Urban (Cities etc.),2,<80,4-6 hours,No outings,1,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,<2.67
+21,Male,Rural (villages),3,>=80,6-8 hours,Once a week,2,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Never,2.67 - 2.99
+21,Male,Urban (Cities etc.),2,>=90,6-8 hours,No outings,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,2.67 - 2.99
+18,Male,Urban (Cities etc.),3,>=80,More than 8 hours,Twice a week,3,2,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,2.67 - 2.99
+21,Female,Urban (Cities etc.),2,>=80,4-6 hours,No outings,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,2.67 - 2.99
+22,Male,Urban (Cities etc.),2,>=90,6-8 hours,No outings,4,4,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,<2.67
+17,Male,Rural (villages),2,>=80,2-4 hours,No outings,2,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,4
+19,Male,Rural (villages),3,>=90,4-6 hours,Once a week,2,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,2.67 - 2.99
+18,Male,Rural (villages),2,>=90,4-6 hours,No outings,5,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,<2.67
+21,Male,Rural (villages),2,>=80,More than 8 hours,3-5 times,2,3,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Daily,2.67 - 2.99
+21,Male,Urban (Cities etc.),1,>=80,6-8 hours,Twice a week,5,2,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,3-5 times,2.67 - 2.99
+20,Male,Rural (villages),2,>=90,More than 8 hours,3-5 times,5,1,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Daily,2.67 - 2.99
+19,Male,Rural (villages),2,>=90,6-8 hours,Once a week,2,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,2.67 - 2.99
+19,Male,Urban (Cities etc.),2,>=90,2-4 hours,3-5 times,3,5,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,4
+24,Male,Urban (Cities etc.),1,<80,6-8 hours,Everyday,1,1,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,4
+18,Male,Urban (Cities etc.),3,>=90,4-6 hours,No outings,1,5,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,4
+19,Male,Rural (villages),3,>=90,6-8 hours,Once a week,2,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Daily,2.67 - 2.99
+18,Female,Urban (Cities etc.),3,>=90,6-8 hours,No outings,2,1,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,4
+20,Male,Urban (Cities etc.),4,>=90,4-6 hours,Once a week,2,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Never,4
+18,Male,Rural (villages),3,>=90,4-6 hours,No outings,2,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,2.67 - 2.99
+20,Male,Urban (Cities etc.),2,>=90,4-6 hours,Twice a week,2,4,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Daily,4
+18,Male,Rural (villages),2,>=90,6-8 hours,3-5 times,2,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,4
+18,Female,Urban (Cities etc.),4,>=90,6-8 hours,No outings,1,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,4
+19,Male,Rural (villages),2,>=80,6-8 hours,Once a week,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,4
+19,Male,Rural (villages),1,>=90,More than 8 hours,No outings,2,3,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,Never,4
+18,Female,Urban (Cities etc.),3,>=90,6-8 hours,Once a week,1,2,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,4
+20,Male,Rural (villages),2,>=90,4-6 hours,Once a week,1,1,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,1-2 times,4
+19,Female,Rural (villages),3,>=90,6-8 hours,No outings,0,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,4
+19,Female,Rural (villages),3,>=90,6-8 hours,No outings,0,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,4
+19,Male,Urban (Cities etc.),2,<80,6-8 hours,Twice a week,2,5,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,4
+19,Female,Rural (villages),2,>=90,6-8 hours,No outings,2,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,<2.67
+18,Male,Rural (villages),3,>=80,6-8 hours,Once a week,3,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,4
+19,Female,Urban (Cities etc.),2,>=80,More than 8 hours,No outings,1,5,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,2.67 - 2.99
+19,Male,Urban (Cities etc.),3,>=90,More than 8 hours,3-5 times,2,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,3-5 times,4
+20,Male,Urban (Cities etc.),1,<80,More than 8 hours,Everyday,5,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,4
+18,Male,Urban (Cities etc.),4,>=90,4-6 hours,No outings,2,1,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,1-2 times,<2.67
+18,Male,Urban (Cities etc.),4,>=90,4-6 hours,No outings,2,1,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,1-2 times,4
+19,Male,Urban (Cities etc.),3,>=90,6-8 hours,Once a week,2,1,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,4
+20,Male,Rural (villages),2,>=90,6-8 hours,Once a week,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,<2.67
+20,Male,Urban (Cities etc.),4,>=90,4-6 hours,No outings,2,4,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,2.67 - 2.99
+19,Male,Rural (villages),3,>=90,More than 8 hours,Once a week,2,4,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,2.67 - 2.99
+18,Female,Rural (villages),3,>=90,2-4 hours,No outings,2,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,<2.67
+21,Male,Urban (Cities etc.),1,>=90,2-4 hours,Everyday,1,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Healthy,Never,4
+17,Male,Rural (villages),2,<80,More than 8 hours,3-5 times,4,3,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,<2.67
+18,Female,Urban (Cities etc.),2,>=90,6-8 hours,No outings,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,<2.67
+17,Male,Urban (Cities etc.),3,>=90,4-6 hours,No outings,2,5,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Junk,Never,4
+17,Male,Rural (villages),5,>=80,2-4 hours,No outings,1,5,Yes,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,Daily,<2.67
+21,Prefer not to say,Rural (villages),1,<80,More than 8 hours,Everyday,3,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,<2.67
+17,Female,Urban (Cities etc.),1,>=90,More than 8 hours,Twice a week,4,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,<2.67
+19,Male,Urban (Cities etc.),3,>=90,4-6 hours,Once a week,1,2,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,4
+19,Male,Urban (Cities etc.),4,>=90,6-8 hours,No outings,1,1,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,4
+19,Male,Urban (Cities etc.),2,>=90,4-6 hours,Twice a week,2,1,Yes,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,4
+21,Male,Urban (Cities etc.),2,>=90,6-8 hours,3-5 times,4,2,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,<2.67
+18,Female,Urban (Cities etc.),5,>=90,6-8 hours,Once a week,2,2,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,4
+23,Male,Urban (Cities etc.),2,>=80,4-6 hours,Once a week,2,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,2.67 - 2.99
+25,Female,Urban (Cities etc.),4,>=90,6-8 hours,Once a week,3,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,4
+21,Male,Rural (villages),1,>=90,6-8 hours,Once a week,3,1,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,2.67 - 2.99
+18,Male,Urban (Cities etc.),2,>=80,6-8 hours,Once a week,2,3,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,4
+22,Male,Urban (Cities etc.),2,>=80,6-8 hours,No outings,4,5,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,2.67 - 2.99
+20,Female,Urban (Cities etc.),1,<80,More than 8 hours,No outings,1,5,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,4
+20,Female,Urban (Cities etc.),3,<80,More than 8 hours,Everyday,5,5,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Daily,2.67 - 2.99
+22,Male,Urban (Cities etc.),2,>=80,4-6 hours,Once a week,3,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,4
+18,Prefer not to say,Rural (villages),3,>=90,6-8 hours,No outings,2,3,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Healthy,1-2 times,4
+45,Male,Rural (villages),2,>=90,4-6 hours,No outings,2,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Daily,2.67 - 2.99
+21,Male,Urban (Cities etc.),1,>=80,4-6 hours,Everyday,2,5,Yes,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,3-5 times,4
+20,Male,Urban (Cities etc.),2,>=80,6-8 hours,3-5 times,5,4,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,3-5 times,2.67 - 2.99
+21,Male,Urban (Cities etc.),1,<80,More than 8 hours,Everyday,0,5,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,<2.67
+20,Male,Urban (Cities etc.),3,>=80,6-8 hours,Once a week,2,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Daily,2.67 - 2.99
+20,Male,Urban (Cities etc.),2,>=80,4-6 hours,Once a week,3,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,2.67 - 2.99
+29,Male,Rural (villages),3,>=90,6-8 hours,Once a week,2,1,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Healthy,Never,4
+20,Male,Rural (villages),3,>=90,6-8 hours,Twice a week,2,1,Yes,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Daily,4
+20,Male,Urban (Cities etc.),2,<80,4-6 hours,No outings,1,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,<2.67
+21,Male,Rural (villages),3,>=80,6-8 hours,Once a week,2,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Never,2.67 - 2.99
+21,Male,Urban (Cities etc.),2,>=90,6-8 hours,No outings,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,2.67 - 2.99
+18,Male,Urban (Cities etc.),3,>=80,More than 8 hours,Twice a week,3,2,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,2.67 - 2.99
+21,Female,Urban (Cities etc.),2,>=80,4-6 hours,No outings,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,2.67 - 2.99
+22,Male,Urban (Cities etc.),2,>=90,6-8 hours,No outings,4,4,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,<2.67
+17,Male,Rural (villages),2,>=80,2-4 hours,No outings,2,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,4
+19,Male,Rural (villages),3,>=90,4-6 hours,Once a week,2,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,2.67 - 2.99
+18,Male,Rural (villages),2,>=90,4-6 hours,No outings,5,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,<2.67
+21,Male,Rural (villages),2,>=80,More than 8 hours,3-5 times,2,3,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Daily,2.67 - 2.99
+21,Male,Urban (Cities etc.),1,>=80,6-8 hours,Twice a week,5,2,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,3-5 times,2.67 - 2.99
+20,Male,Rural (villages),2,>=90,More than 8 hours,3-5 times,5,1,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Daily,2.67 - 2.99
+19,Male,Rural (villages),2,>=90,6-8 hours,Once a week,2,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,2.67 - 2.99
+19,Male,Urban (Cities etc.),2,>=90,2-4 hours,3-5 times,3,5,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,4
+24,Male,Urban (Cities etc.),1,<80,6-8 hours,Everyday,1,1,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,4
+18,Male,Urban (Cities etc.),3,>=90,4-6 hours,No outings,1,5,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,4
+19,Male,Rural (villages),3,>=90,6-8 hours,Once a week,2,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Daily,2.67 - 2.99
+18,Female,Urban (Cities etc.),3,>=90,6-8 hours,No outings,2,1,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,4
+20,Male,Urban (Cities etc.),4,>=90,4-6 hours,Once a week,2,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Never,4
+18,Male,Rural (villages),3,>=90,4-6 hours,No outings,2,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,2.67 - 2.99
+20,Male,Urban (Cities etc.),2,>=90,4-6 hours,Twice a week,2,4,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Daily,4
+18,Male,Rural (villages),2,>=90,6-8 hours,3-5 times,2,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,4
+18,Female,Urban (Cities etc.),4,>=90,6-8 hours,No outings,1,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,4
+19,Male,Rural (villages),2,>=80,6-8 hours,Once a week,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,4
+19,Male,Rural (villages),1,>=90,More than 8 hours,No outings,2,3,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,Never,4
+18,Female,Urban (Cities etc.),3,>=90,6-8 hours,Once a week,1,2,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,4
+20,Male,Rural (villages),2,>=90,4-6 hours,Once a week,1,1,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,1-2 times,4
+19,Female,Rural (villages),3,>=90,6-8 hours,No outings,0,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,4
+19,Female,Rural (villages),3,>=90,6-8 hours,No outings,0,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,4
+19,Male,Urban (Cities etc.),2,<80,6-8 hours,Twice a week,2,5,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,4
+19,Female,Rural (villages),2,>=90,6-8 hours,No outings,2,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,<2.67
+18,Male,Rural (villages),3,>=80,6-8 hours,Once a week,3,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,4
+19,Female,Urban (Cities etc.),2,>=80,More than 8 hours,No outings,1,5,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,2.67 - 2.99
+19,Male,Urban (Cities etc.),3,>=90,More than 8 hours,3-5 times,2,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,3-5 times,4
+20,Male,Urban (Cities etc.),1,<80,More than 8 hours,Everyday,5,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,4
+18,Male,Urban (Cities etc.),4,>=90,4-6 hours,No outings,2,1,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,1-2 times,<2.67
+18,Male,Urban (Cities etc.),4,>=90,4-6 hours,No outings,2,1,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,1-2 times,4
+19,Male,Urban (Cities etc.),3,>=90,6-8 hours,Once a week,2,1,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,4
+20,Male,Rural (villages),2,>=90,6-8 hours,Once a week,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,<2.67
+20,Male,Urban (Cities etc.),4,>=90,4-6 hours,No outings,2,4,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,2.67 - 2.99
+19,Male,Rural (villages),3,>=90,More than 8 hours,Once a week,2,4,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,2.67 - 2.99
+18,Female,Rural (villages),3,>=90,2-4 hours,No outings,2,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,<2.67
+21,Male,Urban (Cities etc.),1,>=90,2-4 hours,Everyday,1,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Healthy,Never,4
+17,Male,Rural (villages),2,<80,More than 8 hours,3-5 times,4,3,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,<2.67
+18,Female,Urban (Cities etc.),2,>=90,6-8 hours,No outings,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,<2.67
+17,Male,Urban (Cities etc.),3,>=90,4-6 hours,No outings,2,5,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Junk,Never,4
+17,Male,Rural (villages),5,>=80,2-4 hours,No outings,1,5,Yes,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,Daily,<2.67
+21,Prefer not to say,Rural (villages),1,<80,More than 8 hours,Everyday,3,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,<2.67
+17,Female,Urban (Cities etc.),1,>=90,More than 8 hours,Twice a week,4,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,<2.67
+19,Male,Urban (Cities etc.),3,>=90,4-6 hours,Once a week,1,2,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,4
+19,Male,Urban (Cities etc.),4,>=90,6-8 hours,No outings,1,1,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,4
+19,Male,Urban (Cities etc.),2,>=90,4-6 hours,Twice a week,2,1,Yes,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,4
+21,Male,Urban (Cities etc.),2,>=90,6-8 hours,3-5 times,4,2,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,<2.67
+18,Female,Urban (Cities etc.),5,>=90,6-8 hours,Once a week,2,2,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,4
+23,Male,Urban (Cities etc.),2,>=80,4-6 hours,Once a week,2,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,2.67 - 2.99
+20,Male,Urban (Cities etc.),4,>=90,6-8 hours,No outings,4,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.67 - 3.99
+20,Female,Urban (Cities etc.),3,>=90,6-8 hours,No outings,2,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.67 - 3.99
+26,Female,Rural (villages),4,>=90,More than 8 hours,Once a week,2,2,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.33 - 3.66
+22,Female,Rural (villages),4,<80,6-8 hours,Once a week,2,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.67 - 3.99
+30,Female,Urban (Cities etc.),3,>=80,More than 8 hours,Once a week,1,1,Yes,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,3.67 - 3.99
+31,Female,Rural (villages),3,>=90,More than 8 hours,Once a week,2,1,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.33 - 3.66
+20,Male,Urban (Cities etc.),1,>=90,More than 8 hours,Once a week,5,1,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,3.67 - 3.99
+21,Female,Urban (Cities etc.),2,>=80,More than 8 hours,No outings,2,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.67 - 3.99
+21,Male,Urban (Cities etc.),2,<80,6-8 hours,Twice a week,1,3,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,3.67 - 3.99
+21,Male,Rural (villages),1,>=90,6-8 hours,Once a week,3,1,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,2.67 - 2.99
+22,Male,Urban (Cities etc.),2,>=80,6-8 hours,No outings,4,5,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,2.67 - 2.99
+21,Female,Urban (Cities etc.),3,>=80,6-8 hours,Once a week,3,3,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.0 - 3.32
+20,Female,Rural (villages),0,>=80,4-6 hours,Twice a week,3,5,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Daily,3.0 - 3.32
+20,Female,Rural (villages),4,>=90,6-8 hours,No outings,5,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,3.33 - 3.66
+20,Female,Urban (Cities etc.),2,>=90,More than 8 hours,No outings,2,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,3.0 - 3.32
+20,Female,Urban (Cities etc.),3,<80,More than 8 hours,Everyday,5,5,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Daily,2.67 - 2.99
+20,Prefer not to say,Urban (Cities etc.),3,>=80,More than 8 hours,Everyday,3,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,3.33 - 3.66
+20,Female,Urban (Cities etc.),2,>=80,6-8 hours,Once a week,2,4,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,3.0 - 3.32
+23,Male,Rural (villages),4,>=90,4-6 hours,3-5 times,3,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,3.0 - 3.32
+23,Female,Urban (Cities etc.),5,>=90,6-8 hours,Twice a week,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,3.67 - 3.99
+29,Male,Urban (Cities etc.),2,>=90,6-8 hours,Once a week,5,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,3.67 - 3.99
+20,Female,Urban (Cities etc.),4,<80,4-6 hours,No outings,3,1,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,3.67 - 3.99
+21,Female,Urban (Cities etc.),1,>=90,6-8 hours,Once a week,0,2,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,3.33 - 3.66
+20,Female,Urban (Cities etc.),2,>=90,2-4 hours,No outings,3,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.33 - 3.66
+20,Female,Rural (villages),3,>=90,4-6 hours,No outings,2,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,3.0 - 3.32
+20,Male,Urban (Cities etc.),1,>=90,6-8 hours,3-5 times,2,3,Yes,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Junk,Never,3.67 - 3.99
+20,Male,Rural (villages),1,>=90,4-6 hours,3-5 times,2,5,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,3.67 - 3.99
+20,Female,Urban (Cities etc.),1,>=80,More than 8 hours,Everyday,3,1,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,3.67 - 3.99
+25,Female,Urban (Cities etc.),2,<80,6-8 hours,Once a week,1,1,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.33 - 3.66
+19,Female,Urban (Cities etc.),4,>=90,6-8 hours,No outings,1,5,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.67 - 3.99
+20,Female,Urban (Cities etc.),2,>=80,2-4 hours,No outings,2,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Daily,3.67 - 3.99
+20,Female,Urban (Cities etc.),4,>=80,6-8 hours,No outings,4,5,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,Never,3.0 - 3.32
+20,Female,Urban (Cities etc.),3,>=90,More than 8 hours,Once a week,3,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,3.33 - 3.66
+19,Female,Urban (Cities etc.),2,>=80,6-8 hours,Once a week,2,3,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.33 - 3.66
+18,Male,Rural (villages),2,>=90,6-8 hours,3-5 times,4,1,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.33 - 3.66
+19,Female,Urban (Cities etc.),2,>=90,4-6 hours,No outings,2,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.67 - 3.99
+19,Male,Urban (Cities etc.),3,>=80,More than 8 hours,3-5 times,2,4,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,3.67 - 3.99
+20,Female,Urban (Cities etc.),3,>=90,6-8 hours,No outings,3,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.33 - 3.66
+21,Male,Rural (villages),0,>=80,6-8 hours,3-5 times,3,2,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Healthy,Daily,3.67 - 3.99
+20,Female,Urban (Cities etc.),3,>=80,6-8 hours,Once a week,1,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.67 - 3.99
+19,Male,Rural (villages),3,>=80,6-8 hours,Once a week,3,1,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Daily,3.33 - 3.66
+20,Female,Urban (Cities etc.),5,>=90,6-8 hours,No outings,3,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,3.33 - 3.66
+20,Female,Urban (Cities etc.),4,>=80,6-8 hours,Once a week,2,3,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.67 - 3.99
+20,Female,Urban (Cities etc.),2,>=90,6-8 hours,Once a week,2,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.67 - 3.99
+21,Female,Urban (Cities etc.),2,<80,More than 8 hours,Once a week,3,3,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Daily,3.33 - 3.66
+19,Female,Urban (Cities etc.),3,>=80,4-6 hours,No outings,1,3,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.67 - 3.99
+22,Female,Urban (Cities etc.),4,>=80,6-8 hours,Once a week,2,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.0 - 3.32
+20,Female,Rural (villages),2,>=80,More than 8 hours,Everyday,4,3,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,3.33 - 3.66
+21,Male,Urban (Cities etc.),2,<80,More than 8 hours,Everyday,4,1,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Daily,3.0 - 3.32
+20,Female,Urban (Cities etc.),3,>=90,6-8 hours,No outings,1,3,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Never,3.33 - 3.66
+20,Female,Urban (Cities etc.),3,>=90,6-8 hours,Once a week,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.33 - 3.66
+30,Male,Urban (Cities etc.),2,>=80,6-8 hours,Once a week,1,1,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Healthy,Daily,3.33 - 3.66
+23,Male,Rural (villages),3,<80,4-6 hours,Once a week,2,2,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Daily,3.0 - 3.32
+33,Female,Urban (Cities etc.),2,>=90,4-6 hours,Once a week,1,3,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.33 - 3.66
+45,Male,Rural (villages),2,>=90,4-6 hours,No outings,2,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Daily,2.67 - 2.99
+23,Female,Urban (Cities etc.),3,>=80,6-8 hours,Once a week,1,1,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,Daily,3.67 - 3.99
+19,Male,Urban (Cities etc.),1,>=90,More than 8 hours,Once a week,3,2,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,3.33 - 3.66
+21,Male,Urban (Cities etc.),2,>=80,6-8 hours,Everyday,2,5,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Daily,3.0 - 3.32
+20,Male,Urban (Cities etc.),2,>=80,6-8 hours,3-5 times,5,4,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,3-5 times,2.67 - 2.99
+19,Male,Urban (Cities etc.),3,>=80,6-8 hours,Once a week,2,3,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,3.33 - 3.66
+20,Male,Rural (villages),3,>=80,6-8 hours,Twice a week,3,4,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.0 - 3.32
+18,Male,Rural (villages),3,>=80,6-8 hours,Twice a week,3,1,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,3.33 - 3.66
+22,Male,Urban (Cities etc.),2,>=80,6-8 hours,3-5 times,2,1,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,3.0 - 3.32
+21,Male,Urban (Cities etc.),1,<80,More than 8 hours,Everyday,0,5,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,<2.67
+20,Male,Urban (Cities etc.),2,>=80,6-8 hours,Twice a week,4,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,3.0 - 3.32
+21,Male,Urban (Cities etc.),2,>=80,4-6 hours,Once a week,3,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,3-5 times,3.0 - 3.32
+21,Male,Urban (Cities etc.),4,>=80,2-4 hours,No outings,3,4,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,3.67 - 3.99
+20,Female,Rural (villages),1,<80,4-6 hours,3-5 times,5,1,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,3.33 - 3.66
+21,Female,Urban (Cities etc.),5,<80,4-6 hours,Twice a week,2,1,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Junk,3-5 times,3.67 - 3.99
+19,Male,Rural (villages),3,>=90,6-8 hours,3-5 times,2,2,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Never,3.0 - 3.32
+20,Male,Urban (Cities etc.),3,>=80,6-8 hours,Once a week,2,3,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Daily,2.67 - 2.99
+19,Male,Rural (villages),2,>=80,6-8 hours,Once a week,1,2,I study in group as well as alone.,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,3.0 - 3.32
+19,Male,Urban (Cities etc.),3,>=80,6-8 hours,Once a week,2,2,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,3.67 - 3.99
+19,Male,Urban (Cities etc.),2,>=80,6-8 hours,Twice a week,2,1,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Healthy,Daily,3.33 - 3.66
+20,Male,Urban (Cities etc.),2,>=90,2-4 hours,Once a week,2,3,Yes,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.0 - 3.32
+18,Male,Urban (Cities etc.),2,>=90,6-8 hours,Twice a week,4,1,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,3-5 times,3.67 - 3.99
+19,Male,Urban (Cities etc.),1,<80,6-8 hours,Once a week,2,3,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,3-5 times,3.33 - 3.66
+22,Male,Rural (villages),2,>=90,6-8 hours,No outings,2,3,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.33 - 3.66
+19,Male,Rural (villages),4,>=90,6-8 hours,No outings,2,3,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Daily,3.67 - 3.99
+20,Male,Urban (Cities etc.),2,>=80,4-6 hours,Once a week,3,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,2.67 - 2.99
+19,Male,Urban (Cities etc.),2,>=90,6-8 hours,Once a week,4,5,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,3.67 - 3.99
+19,Male,Urban (Cities etc.),1,<80,2-4 hours,No outings,4,1,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,3.33 - 3.66
+19,Male,Rural (villages),3,>=80,2-4 hours,Once a week,2,5,Yes,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,1-2 times,3.67 - 3.99
+19,Male,Rural (villages),4,>=90,6-8 hours,No outings,2,1,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Healthy,1-2 times,3.0 - 3.32
+19,Male,Urban (Cities etc.),1,>=90,4-6 hours,No outings,2,5,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,3-5 times,3.0 - 3.32
+20,Male,Urban (Cities etc.),2,<80,4-6 hours,No outings,1,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,<2.67
+21,Male,Rural (villages),2,>=90,6-8 hours,Once a week,2,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.33 - 3.66
+20,Female,Rural (villages),2,>=80,4-6 hours,No outings,2,4,I study in group as well as alone.,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,3.0 - 3.32
+21,Male,Rural (villages),3,>=80,6-8 hours,Once a week,2,4,I study in group as well as alone.,Home/Hostel Room,"Yes, I mostly take notes in classes",Healthy,Never,2.67 - 2.99
+19,Male,Rural (villages),2,>=90,4-6 hours,No outings,2,4,Yes,Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,3.33 - 3.66
+21,Male,Urban (Cities etc.),2,>=90,6-8 hours,No outings,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,1-2 times,2.67 - 2.99
+21,Male,Urban (Cities etc.),1,<80,More than 8 hours,Everyday,0,5,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,<2.67
+20,Male,Urban (Cities etc.),2,<80,4-6 hours,No outings,1,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,<2.67
+22,Male,Urban (Cities etc.),2,>=90,6-8 hours,No outings,4,4,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,<2.67
+18,Male,Rural (villages),2,>=90,4-6 hours,No outings,5,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,<2.67
+19,Female,Rural (villages),2,>=90,6-8 hours,No outings,2,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,<2.67
+18,Male,Urban (Cities etc.),4,>=90,4-6 hours,No outings,2,1,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,1-2 times,<2.67
+20,Male,Rural (villages),2,>=90,6-8 hours,Once a week,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,<2.67
+18,Female,Rural (villages),3,>=90,2-4 hours,No outings,2,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,<2.67
+17,Male,Rural (villages),2,<80,More than 8 hours,3-5 times,4,3,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,<2.67
+18,Female,Urban (Cities etc.),2,>=90,6-8 hours,No outings,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,<2.67
+17,Male,Rural (villages),5,>=80,2-4 hours,No outings,1,5,Yes,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,Daily,<2.67
+21,Prefer not to say,Rural (villages),1,<80,More than 8 hours,Everyday,3,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,<2.67
+17,Female,Urban (Cities etc.),1,>=90,More than 8 hours,Twice a week,4,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,<2.67
+21,Male,Urban (Cities etc.),2,>=90,6-8 hours,3-5 times,4,2,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,<2.67
+21,Male,Urban (Cities etc.),1,<80,More than 8 hours,Everyday,0,5,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,<2.67
+20,Male,Urban (Cities etc.),2,<80,4-6 hours,No outings,1,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,<2.67
+22,Male,Urban (Cities etc.),2,>=90,6-8 hours,No outings,4,4,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,<2.67
+18,Male,Rural (villages),2,>=90,4-6 hours,No outings,5,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,<2.67
+19,Female,Rural (villages),2,>=90,6-8 hours,No outings,2,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,<2.67
+18,Male,Urban (Cities etc.),4,>=90,4-6 hours,No outings,2,1,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,1-2 times,<2.67
+20,Male,Rural (villages),2,>=90,6-8 hours,Once a week,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,<2.67
+18,Female,Rural (villages),3,>=90,2-4 hours,No outings,2,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,<2.67
+17,Male,Rural (villages),2,<80,More than 8 hours,3-5 times,4,3,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,<2.67
+18,Female,Urban (Cities etc.),2,>=90,6-8 hours,No outings,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,<2.67
+17,Male,Rural (villages),5,>=80,2-4 hours,No outings,1,5,Yes,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,Daily,<2.67
+21,Prefer not to say,Rural (villages),1,<80,More than 8 hours,Everyday,3,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,<2.67
+17,Female,Urban (Cities etc.),1,>=90,More than 8 hours,Twice a week,4,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,<2.67
+21,Male,Urban (Cities etc.),2,>=90,6-8 hours,3-5 times,4,2,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,<2.67
+21,Male,Urban (Cities etc.),1,<80,More than 8 hours,Everyday,0,5,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,<2.67
+20,Male,Urban (Cities etc.),2,<80,4-6 hours,No outings,1,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,<2.67
+22,Male,Urban (Cities etc.),2,>=90,6-8 hours,No outings,4,4,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,<2.67
+18,Male,Rural (villages),2,>=90,4-6 hours,No outings,5,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,<2.67
+19,Female,Rural (villages),2,>=90,6-8 hours,No outings,2,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,<2.67
+18,Male,Urban (Cities etc.),4,>=90,4-6 hours,No outings,2,1,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,1-2 times,<2.67
+20,Male,Rural (villages),2,>=90,6-8 hours,Once a week,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,<2.67
+18,Female,Rural (villages),3,>=90,2-4 hours,No outings,2,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,<2.67
+17,Male,Rural (villages),2,<80,More than 8 hours,3-5 times,4,3,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,<2.67
+18,Female,Urban (Cities etc.),2,>=90,6-8 hours,No outings,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,<2.67
+17,Male,Rural (villages),5,>=80,2-4 hours,No outings,1,5,Yes,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,Daily,<2.67
+21,Prefer not to say,Rural (villages),1,<80,More than 8 hours,Everyday,3,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,<2.67
+17,Female,Urban (Cities etc.),1,>=90,More than 8 hours,Twice a week,4,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,<2.67
+21,Male,Urban (Cities etc.),2,>=90,6-8 hours,3-5 times,4,2,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,<2.67
+21,Male,Urban (Cities etc.),1,<80,More than 8 hours,Everyday,0,5,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,<2.67
+20,Male,Urban (Cities etc.),2,<80,4-6 hours,No outings,1,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,<2.67
+22,Male,Urban (Cities etc.),2,>=90,6-8 hours,No outings,4,4,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,<2.67
+18,Male,Rural (villages),2,>=90,4-6 hours,No outings,5,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,1-2 times,<2.67
+19,Female,Rural (villages),2,>=90,6-8 hours,No outings,2,5,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,<2.67
+18,Male,Urban (Cities etc.),4,>=90,4-6 hours,No outings,2,1,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,1-2 times,<2.67
+20,Male,Rural (villages),2,>=90,6-8 hours,Once a week,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,<2.67
+18,Female,Rural (villages),3,>=90,2-4 hours,No outings,2,3,"No, i study alone.",Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Mixed,Never,<2.67
+17,Male,Rural (villages),2,<80,More than 8 hours,3-5 times,4,3,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,<2.67
+18,Female,Urban (Cities etc.),2,>=90,6-8 hours,No outings,2,4,"No, i study alone.",Home/Hostel Room,"Yes, I mostly take notes in classes",Mixed,Never,<2.67
+17,Male,Rural (villages),5,>=80,2-4 hours,No outings,1,5,Yes,Home/Hostel Room,"I sometimes take notes, like once or twice a week.",Healthy,Daily,<2.67
+21,Prefer not to say,Rural (villages),1,<80,More than 8 hours,Everyday,3,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,<2.67
+17,Female,Urban (Cities etc.),1,>=90,More than 8 hours,Twice a week,4,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,<2.67
+21,Male,Urban (Cities etc.),2,>=90,6-8 hours,3-5 times,4,2,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,1-2 times,<2.67
+21,Male,Urban (Cities etc.),1,<80,More than 8 hours,Everyday,0,5,Yes,Home/Hostel Room,"No, I usually dont take notes in classes",Junk,Never,<2.67
+20,Male,Urban (Cities etc.),2,<80,4-6 hours,No outings,1,5,"No, i study alone.",Home/Hostel Room,"No, I usually dont take notes in classes",Mixed,Never,<2.67
